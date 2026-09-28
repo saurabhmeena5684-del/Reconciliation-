@@ -1,0 +1,18 @@
+export const FLIPKART_16_SHEETS = [
+  'Report Help',
+  'Summary of report',
+  'Orders',
+  'MP Fee Rebate',
+  'Non_Order_SPF',
+  'Storage_Recall',
+  'Value Added Services',
+  'Support Services Services',
+  'Fines',
+  'Google Ads Services',
+  'Review Accelerator Services',
+  'Insight Subscription Services',
+  'Ads',
+  'TCS_Recovery',
+  'TDS',
+  'GST_Details',
+];

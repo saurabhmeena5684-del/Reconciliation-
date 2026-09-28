@@ -1,0 +1,8 @@
+{
+  "name": "ReconPulse - Multi-Marketplace Settlement & SKU Reconciliation Engine",
+  "description": "Zero-assumption, formula-driven e-commerce reconciliation web tool for Flipkart, Amazon, and marketplaces with SKU-level settlement, return tracking, and dynamic column locator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
